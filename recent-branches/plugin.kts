@@ -34,5 +34,3 @@ registerAction(id = "Show Git Recent Branches", keyStroke = "ctrl alt shift B") 
 }
 
 if (!isIdeStartup) show("Git Recent Branches Loaded")
-
-
